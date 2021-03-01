@@ -1,15 +1,7 @@
-### Hi there 👋
-
-<!--
-**jas6zhang/jas6zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### Greetings! I'm Jason 👋
+- 📫 Find me at https://jas6zhang.github.io/
 - ⚡ Fun fact: I play competitive Pokemon! 
-- 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang)](https://github.com/jas6zhang/github-readme-stats)
+
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang&hide=stars,issues)](https://github.com/jas6zhang/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang)](https://github.com/jas6zhang/github-readme-stats)
