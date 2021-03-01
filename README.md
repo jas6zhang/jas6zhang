@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I play competitive Pokemon! 
 - 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang)](https://github.com/jas6zhang/github-readme-stats)
