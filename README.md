@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I play competitive Pokemon! 
-
-<img src = "https://github-readme-stats.vercel.app/api?username=jas6zhang)">
+- 
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang)](https://github.com/anuraghazra/github-readme-stats)
