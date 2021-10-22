@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name's Jason, and I'm a Systems Design Engineering student at the University of Waterloo.
+My name's Jason, and I'm a Systems Design Engineering student at the University of Waterloo. Check out some of my projects down below! 
 
 <!--- - You can find out more about me at https://jas6zhang.github.io/ --->
 
