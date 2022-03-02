@@ -6,15 +6,11 @@ You can find out more about me at https://jas6zhang.github.io/
 
 <!--- - You can find out more about me at https://jas6zhang.github.io/ --->
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang&theme=algolia&hide=stars,issues)](https://github.com/jas6zhang/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia)](https://github.com/jas6zhang/github-readme-stats)
-
 ### ⚙️ &nbsp;Cool Analytics
 
 <p align="left">
   <a href="https://github.com/jas6zhang">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
 </a>
 </p>
