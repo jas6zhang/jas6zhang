@@ -10,13 +10,13 @@ You can find out more about me at https://jas6zhang.github.io/
 <img alt="Coder" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 <p align="left">
   <a href="https://github.com/jas6zhang">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
     </a>
      
 </p>
 <p align="left">
   <a href="https://github.com/jas6zhang">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
       </a>   
 </p>
 
