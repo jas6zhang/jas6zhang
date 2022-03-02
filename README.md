@@ -12,7 +12,7 @@ You can find out more about me at https://jas6zhang.github.io/
 <img alt="Coder" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 <p align="left">
   <a href="https://github.com/jas6zhang">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
+  <img height="150em" width = 50% src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
     </a>
      
 </p>
@@ -29,5 +29,5 @@ You can find out more about me at https://jas6zhang.github.io/
 <!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/j6z/"><img src="https://img.shields.io/badge/-Jason%20Zhang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:j2343zha@uwaterloo.ca"><img src="https://img.shields.io/badge/-j2343zha@uwaterloo.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/dtrxcy"><img src="https://img.shields.io/badge/-@jason6zhang-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/jason6zhang"><img src="https://img.shields.io/badge/-@jason6zhang-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
