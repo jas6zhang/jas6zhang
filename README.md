@@ -16,12 +16,12 @@ You can find out more about me at https://jas6zhang.github.io/
     </a>
      
 </p>
+  </div> 
 <p align="left">
   <a href="https://github.com/jas6zhang">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
       </a>   
 </p>
-</div> 
 
 ### 🤝🏻 &nbsp;Connect with Me
 <hr>
