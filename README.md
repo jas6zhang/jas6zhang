@@ -7,6 +7,7 @@ You can find out more about me at https://jas6zhang.github.io/
 <!--- - You can find out more about me at https://jas6zhang.github.io/ --->
 
 ### ⚙️ &nbsp;Cool Analytics
+<div>
 <img alt="Coder" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 <p align="left">
   <a href="https://github.com/jas6zhang">
@@ -19,7 +20,7 @@ You can find out more about me at https://jas6zhang.github.io/
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
       </a>   
 </p>
-
+</div> 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
