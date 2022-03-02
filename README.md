@@ -9,7 +9,7 @@ You can find out more about me at https://jas6zhang.github.io/
 ### ⚙️ &nbsp;Cool Analytics
 <hr>
 <div>
-<img alt="Coder"  width = 80% src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
+<img alt="Coder"  width = 40% src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 <p align="left">
   <a href="https://github.com/jas6zhang">
   <img height="150em" width = 50% src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&&hide=stars,issues"/>
