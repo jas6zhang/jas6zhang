@@ -10,14 +10,16 @@ You can find out more about me at https://jas6zhang.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia)](https://github.com/jas6zhang/github-readme-stats)
 
-<img alt="Coder" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
-
 ### ⚙️ &nbsp;Cool Analytics
 
 <p align="left">
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang&theme=algolia&hide=stars,issues)](https://github.com/jas6zhang/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia)](https://github.com/jas6zhang/github-readme-stats)
+  <a href="https://github.com/jas6zhang">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas6zhang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
+</a>
 </p>
+
+<img alt="Coder" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
