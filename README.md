@@ -1,8 +1,8 @@
 ### Hi! I'm Jason 👋
 <hr>
 My name's Jason, and I'm a Systems Design Engineering student with a minor in Computing at the University of Waterloo. Check out some of my projects down below!
-
--> You can find out more about me at https://jas6zhang.github.io/
+<br>
+You can find out more about me at https://jas6zhang.github.io/
 
 <!--- - You can find out more about me at https://jas6zhang.github.io/ --->
 
