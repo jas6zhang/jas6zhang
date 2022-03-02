@@ -16,7 +16,7 @@ You can find out more about me at https://jas6zhang.github.io/
 </p>
 <p align="left">
   <a href="https://github.com/jas6zhang">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
       </a>   
 </p>
 
