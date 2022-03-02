@@ -10,7 +10,7 @@ You can find out more about me at https://jas6zhang.github.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia)](https://github.com/jas6zhang/github-readme-stats)
 
-<img alt="Coder" src="./img/me_coding.gif" align="right"/>
+![original](https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif)
 
 ### ⚙️ &nbsp;Cool Analytics
 
@@ -18,7 +18,7 @@ You can find out more about me at https://jas6zhang.github.io/
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas6zhang&theme=algolia&hide=stars,issues)](https://github.com/jas6zhang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia)](https://github.com/jas6zhang/github-readme-stats)
 </p>
-  
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
