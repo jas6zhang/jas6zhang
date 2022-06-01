@@ -3,21 +3,16 @@
 <div> 
 <img alt="Coder"  width = 30% padding = "5px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 </div> 
-<div> 
-I'm a Systems Design Engineering student with a minor in Computing @ the University of Waterloo. 
+I'm a **Systems Design Engineering student with a minor in Computing @ the University of Waterloo**. 
 I aspire to be a Software Developer who can work on exciting, impact-driven products. 
 
-  
 <br>
- <br>
+<br>
   
-  
-  
-Check out some of my projects down below arrow emoji↓
+Check out some of my projects down below↓
   
 I'm always open to connections on LinkedIn and coffee chats, feel free to reach out! 
   
-</div> 
 
 #### You can find out more about me at https://jas6zhang.github.io/
 <br>
