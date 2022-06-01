@@ -5,10 +5,15 @@
 </div> 
 <div> 
 I'm a Systems Design Engineering student with a minor in Computing @ the University of Waterloo. 
+I aspire to be a Software Developer who can work on exciting, impact-driven products. 
 
   
 <br>
-I aspire to be a Software Developer who can work on exciting, impact-driven products. Check out some of my projects down below!
+ <br>
+  
+  
+  
+Check out some of my projects down below arrow emoji↓
   
 I'm always open to connections on LinkedIn and coffee chats, feel free to reach out! 
   
