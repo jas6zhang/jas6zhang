@@ -1,7 +1,7 @@
 ### Hi there! I'm Jason 👋
 <hr>
 <div> 
-<img alt="Coder"  width = 30% padding = "5px" margin-left = "5px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
+<img alt="Coder"  width = 40% padding = "5px" margin-left = "5px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 </div> 
 I'm currently a <strong>Systems Design Engineering</strong> student with an option in Computing @ the University of Waterloo. 
 
