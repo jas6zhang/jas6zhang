@@ -29,8 +29,6 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
 I'm always open to connections on LinkedIn and coffee chats, let's connect! 
 
 #### You can find out more about me at https://jas6zhang.github.io/
-<br>
-
 <!-- ### ⚙️ &nbsp;Cool Analytics
 <hr>
 <div>
