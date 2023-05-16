@@ -1,15 +1,30 @@
-### Hi there! I'm Jason 👋
-<hr>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello Explorer 👋, I'm Jason</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div> 
-<img alt="Coder"  width = 40% padding = "5px" margin-left = "10px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
+<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 </div> 
-I'm currently a <strong>Systems Design Engineering</strong> student with an option in Computing @ the University of Waterloo. 
+I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo. 
 
 <br>
 <br>
   
-- 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer. 
+- 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
+ 
 - ⭐️ Fun fact: I play competitive Pokemon! Always down for some friendly trainer battles! 
+
 - ⬇️ Feel free to check out my repositories below
   
 I'm always open to connections on LinkedIn and coffee chats, let's connect! 
@@ -17,7 +32,7 @@ I'm always open to connections on LinkedIn and coffee chats, let's connect!
 #### You can find out more about me at https://jas6zhang.github.io/
 <br>
 
-### ⚙️ &nbsp;Cool Analytics
+<!-- ### ⚙️ &nbsp;Cool Analytics
 <hr>
 <div>
 <p align="left">
@@ -32,12 +47,17 @@ I'm always open to connections on LinkedIn and coffee chats, let's connect!
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas6zhang&theme=algolia"/>
       </a>   
 </p>
+ -->
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-### 🤝🏻 &nbsp;Connect with Me
-<hr>
 <p align="center">
-<!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
-<a href="https://www.linkedin.com/in/j6z/"><img src="https://img.shields.io/badge/-Jason%20Zhang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:j2343zha@uwaterloo.ca"><img src="https://img.shields.io/badge/-j2343zha@uwaterloo.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jason6zhang"><img src="https://img.shields.io/badge/-@jason6zhang-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jas6zhang/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:j2343zha@uwaterloo.ca" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/jason6zhang/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
