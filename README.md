@@ -26,7 +26,7 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
 
 - ⬇️ Feel free to check out my repositories below
   
-💬 Currently seeking Winter and Summer 2024 internships. Feel free to reach out to me about my experiences, and anything to do with tech. I'm always open to new friends and coffee chats, let's connect! 
+💬 Currently seeking <strong>Winter and Summer 2024 internships<strong>. Feel free to reach out to me about my experiences, and anything to do with tech. I'm always open to new friends and coffee chats, let's connect! 
 
 #### You can find out more about me at https://jas6zhang.github.io/
 
