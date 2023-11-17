@@ -18,7 +18,7 @@
 <img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
 </div> 
 
-I'm currently a 4th year <strong>Computer Science</strong> student @ the University of Waterloo. 
+I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo. 
 - 💬 Currently seeking <strong>Winter and Summer 2024 internships</strong>. 
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
