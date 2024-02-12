@@ -19,7 +19,7 @@
 </div> 
 
 I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo. 
-- 💬 Currently seeking <strong>Winter and Summer 2024 internships</strong>. 
+- 💬 Currently seeking <strong>Summer and Fall 2024 internships</strong>. 
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
  
