@@ -6,18 +6,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<!--- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<div> 
-  <hr> 
-<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://user-images.githubusercontent.com/65873016/156272393-0646880b-10d3-459b-b222-aaf374b5fb6d.gif" align="right"/>
-</div> 
-
 I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo. 
 - 💬 Currently seeking <strong>Summer and Fall 2024 internships</strong>. 
   
