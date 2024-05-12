@@ -11,9 +11,9 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
  
-- ⭐️ Fun fact: I play competitive Pokemon! Always down for some friendly trainer battles! 
+- ⭐️ Fun fact: I play competitive Pokemon! Always down for some friendly trainer battles. 
 
-- ⬇️ Don't be shy to check out some of my repositories below.
+- ⬇️ Check out some of my repositories below!
   
 Feel free to reach out to me about my experiences, and anything to do with tech. I'm always open to new friends and coffee chats, let's connect! 
 
