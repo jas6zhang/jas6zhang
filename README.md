@@ -8,7 +8,7 @@
 
 I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo with a specialization in <strong>Human-Computer Interaction</strong>.
 What I'm up to: 
-- 💻 Building durable data storage as part of the DynamoDB and Transactional Services team at AWS.
+- 💻 Building durable data storage as part of the <strong>DynamoDB and Transactional Services</strong> team at <strong>AWS</strong>.
   
 - 💬 Currently seeking <strong> 2024 Fall and 2025 Winter internships</strong>. 
   
