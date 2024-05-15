@@ -6,8 +6,11 @@
   </ul>
 </div>
 
-I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo with a specialization in <strong>Human-Computer Interaction</strong>. 
-- 💬 Currently seeking <strong> Fall and Winter 2024 internships</strong>. 
+I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo with a specialization in <strong>Human-Computer Interaction</strong>.
+What I'm up to: 
+- 💻 Building durable data storage as part of the DynamoDB and Transactional Services team at AWS.
+  
+- 💬 Currently seeking <strong> 2024 Fall and 2025 Winter internships</strong>. 
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
  
@@ -15,7 +18,7 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
 
 - ⬇️ Check out some of my repositories below!
   
-Feel free to reach out to me about my experiences, and anything to do with tech. I'm always open to new friends and coffee chats, let's connect! 
+Feel free to reach out to me about my experiences, and anything to do with tech. I'm always open to coffee chats and meeting new people, let's connect! 
 
 #### You can find out more about me at https://jas6zhang.github.io/
 
