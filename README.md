@@ -10,7 +10,7 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
 What I'm up to: 
 - 💻 Building durable data storage as part of the <strong>Transactional Services</strong> team at <strong>AWS</strong>.
   
-- 💬 Currently seeking <strong> 2024 Fall and 2025 Winter internships</strong>. 
+- 💬 Currently seeking <strong> 2025 Winter internships and new grad positions</strong>. 
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
  
