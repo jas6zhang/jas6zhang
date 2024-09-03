@@ -10,7 +10,7 @@ I'm currently a <strong>Computer Science</strong> student @ the University of Wa
 What I'm up to: 
 - 💻 Developing and improving privacy and platform policy compliance products as part of the <strong>Integrity Experience</strong> team at <strong>Meta</strong>.
   
-- 💬 Currently seeking <strong> 2025 Winter internships and new grad positions</strong>. 
+- 💬 Currently seeking <strong> 2025 internships</strong>. 
   
 - 🌱 I'm always looking to work on new exciting, impact-driven projects as a software developer.
  
