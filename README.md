@@ -8,7 +8,7 @@
 
 I'm currently a <strong>Computer Science</strong> student @ the University of Waterloo with a specialization in <strong>Human-Computer Interaction</strong>.
 What I'm up to: 
-- 💻 Building durable data storage as part of the <strong>Transactional Services</strong> team at <strong>AWS</strong>.
+- 💻 Developing and improving privacy and platform policy compliance products as part of the <strong>Integrity Experience</strong> team at <strong>Meta</strong>.
   
 - 💬 Currently seeking <strong> 2025 Winter internships and new grad positions</strong>. 
   
